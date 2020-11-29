@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'cat'
+}
+
+item {
+  id: 2
+  name: 'striped'
+}
+
+item {
+  id: 3
+  name: 'squared'
+}
+
+item {
+  id: 4
+  name: 'tie'
+}
+
+item {
+  id: 5
+  name: 'bow'
+}
+
+item {
+  id: 6
+  name: 'glasses'
+}
