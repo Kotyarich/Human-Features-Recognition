@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>5_22.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\5_22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>469</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>174</ymin>
+			<xmax>434</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

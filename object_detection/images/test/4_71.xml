@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>4_71.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\4_71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>466</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>364</ymin>
+			<xmax>321</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

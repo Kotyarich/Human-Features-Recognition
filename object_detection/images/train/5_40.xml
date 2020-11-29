@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>5_40.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\5_40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bow</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>260</ymin>
+			<xmax>284</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
