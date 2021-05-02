@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>7_33.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\7_33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>950</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>217</ymin>
+			<xmax>368</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -27,3 +27,8 @@ item {
   id: 6
   name: 'glasses'
 }
+
+item {
+  id: 7
+  name: 'beard'
+}
