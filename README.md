@@ -32,3 +32,5 @@ C:\> activate tensorflow1
 (tensorflow1) C:PATH_TO_DIRECTORY_CONTAINING_object_detection\object_detection>python main_image.py
 ```
 
+Для запуска на С++ слинковать с [Tensorflow C API](https://www.tensorflow.org/install/lang_c) и OpenCV.  
+В файле main.cpp изменить путь до изображения и frozen_inference_graph.pb.
